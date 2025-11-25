@@ -1,0 +1,13 @@
+title: "Kai Britzman"
+description: "I am a Applied Data Science student at Harper Adams University"
+theme: minima
+
+author:
+  name: "Kai Britzman"
+  email: "kbritz33@outlook.com"
+
+header_pages:
+  - index.md
+
+github_username: Kai Britzman
+linkedin_username: your-linkedin-handle
